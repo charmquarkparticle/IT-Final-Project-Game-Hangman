@@ -1,0 +1,14 @@
+D:\mine\C#\IT.Final.Project.Game.Hangman\IT.Final.Project.Game.Hangman\bin\Debug\net8.0\IT.Final.Project.Game.Hangman.exe
+D:\mine\C#\IT.Final.Project.Game.Hangman\IT.Final.Project.Game.Hangman\bin\Debug\net8.0\IT.Final.Project.Game.Hangman.deps.json
+D:\mine\C#\IT.Final.Project.Game.Hangman\IT.Final.Project.Game.Hangman\bin\Debug\net8.0\IT.Final.Project.Game.Hangman.runtimeconfig.json
+D:\mine\C#\IT.Final.Project.Game.Hangman\IT.Final.Project.Game.Hangman\bin\Debug\net8.0\IT.Final.Project.Game.Hangman.dll
+D:\mine\C#\IT.Final.Project.Game.Hangman\IT.Final.Project.Game.Hangman\bin\Debug\net8.0\IT.Final.Project.Game.Hangman.pdb
+D:\mine\C#\IT.Final.Project.Game.Hangman\IT.Final.Project.Game.Hangman\obj\Debug\net8.0\IT.Final.Project.Game.Hangman.GeneratedMSBuildEditorConfig.editorconfig
+D:\mine\C#\IT.Final.Project.Game.Hangman\IT.Final.Project.Game.Hangman\obj\Debug\net8.0\IT.Final.Project.Game.Hangman.AssemblyInfoInputs.cache
+D:\mine\C#\IT.Final.Project.Game.Hangman\IT.Final.Project.Game.Hangman\obj\Debug\net8.0\IT.Final.Project.Game.Hangman.AssemblyInfo.cs
+D:\mine\C#\IT.Final.Project.Game.Hangman\IT.Final.Project.Game.Hangman\obj\Debug\net8.0\IT.Final.Project.Game.Hangman.csproj.CoreCompileInputs.cache
+D:\mine\C#\IT.Final.Project.Game.Hangman\IT.Final.Project.Game.Hangman\obj\Debug\net8.0\IT.Final.Project.Game.Hangman.dll
+D:\mine\C#\IT.Final.Project.Game.Hangman\IT.Final.Project.Game.Hangman\obj\Debug\net8.0\refint\IT.Final.Project.Game.Hangman.dll
+D:\mine\C#\IT.Final.Project.Game.Hangman\IT.Final.Project.Game.Hangman\obj\Debug\net8.0\IT.Final.Project.Game.Hangman.pdb
+D:\mine\C#\IT.Final.Project.Game.Hangman\IT.Final.Project.Game.Hangman\obj\Debug\net8.0\IT.Final.Project.Game.Hangman.genruntimeconfig.cache
+D:\mine\C#\IT.Final.Project.Game.Hangman\IT.Final.Project.Game.Hangman\obj\Debug\net8.0\ref\IT.Final.Project.Game.Hangman.dll
